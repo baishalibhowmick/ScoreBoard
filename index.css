@@ -1,0 +1,68 @@
+body {    
+top: -1135px;
+left: -1996px;
+gap: 0px;
+opacity: 0px;
+background-color: #1B244A;
+margin: 0;
+}
+
+.container {  
+    display: flex;
+    justify-content: space-around;
+}
+.container2{
+    display: flex;
+    justify-content: space-around;   
+    margin-right: 15px;
+    margin-left: 15px;
+    margin-top: 15px;
+    }
+#home-el
+{
+background-color: black;
+width: 30px;
+height: 20px;
+top: 125px;
+left: 355px;
+gap: 0px;
+opacity: 0px;
+color: #F94F6D;
+font-family: Cursed Timer ULiL;
+font-size: 20px;
+font-weight: 400;
+text-align: center;
+margin-right: 15px;
+margin-left: 15px;
+}
+#guest-el
+{
+background-color: black;
+width: 30px;
+height: 20px;
+top: 125px;
+left: 355px;
+gap: 0px;
+opacity: 0px;
+color: #F94F6D;
+font-family: Cursed Timer ULiL;
+font-size: 20px;
+font-weight: 400;
+text-align: center;
+margin-right: 15px;
+margin-left: 15px;
+}
+
+#refresh-el{
+background-color: pink;
+text-align: center;
+width: 70px;
+height: 30px;
+}
+
+#home-score{
+    background-color: #9AABD8;
+}
+#guest-score{
+    background-color: #9AABD8;
+}
